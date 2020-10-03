@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dr. Jekyll &amp; My. Hyde</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Dr. Jekyll &amp; My. Hyde</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 16 May 2020 07:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Selective Combinations</title>
+      <link>/posts/2016-05-16-selective-combinations.md/</link>
+      <pubDate>Sat, 16 May 2020 07:00:00 +0000</pubDate>
+      
+      <guid>/posts/2016-05-16-selective-combinations.md/</guid>
+      <description>&lt;p&gt;Consider this scenario:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You have a list of strings with which you have generate ordered selective combinations of strings starting with the first string in the list. Let us say the list of strings is &lt;code&gt;abc&lt;/code&gt;, &lt;code&gt;def&lt;/code&gt; and &lt;code&gt;ghi&lt;/code&gt;. I have to generate ordered combinations of the above list restricted to the ones starting with &lt;code&gt;abc&lt;/code&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;So that would be as follows:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;abc def ghi
+
+abc def
+
+abc ghi
+
+abc
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>Introducing Hyde</title>
+      <link>/posts/introducing-hyde/</link>
+      <pubDate>Sat, 28 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/introducing-hyde/</guid>
+      <description>Hyde is a brazen two-column hugo theme based on the Jekyll theme of the same name. It pairs a prominent sidebar with uncomplicated content.
+Hyde features Hyde adds the following:
+ Sidebar includes support for textual modules and a dynamically generated navigation with active link support Two orientations for content and sidebar, default (left sidebar) and reverse (right sidebar), available via &amp;lt;body&amp;gt; classes Eight optional color schemes, available via &amp;lt;body&amp;gt; classes  Head to the readme to learn more.</description>
+    </item>
+    
+    <item>
+      <title>Example content</title>
+      <link>/posts/example-content/</link>
+      <pubDate>Tue, 07 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/example-content/</guid>
+      <description>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+ Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+ Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum.</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s Hugo?</title>
+      <link>/posts/whats-hugo/</link>
+      <pubDate>Mon, 06 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/whats-hugo/</guid>
+      <description>Hugo is the world’s fastest static website engine. It’s written in Go (aka Golang) and developed by bep, spf13 and friends. From the project&amp;rsquo;s readme:
+ Hugo is a static HTML and CSS website generator written in Go. It is optimized for speed, ease of use, and configurability. Hugo takes a directory with content and templates and renders them into a full HTML website.
+  Hugo relies on Markdown files with front matter for metadata, and you can run Hugo from any directory.</description>
+    </item>
+    
+  </channel>
+</rss>

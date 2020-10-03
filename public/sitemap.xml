@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-05-16T07:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2020-05-16T07:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/2016-05-16-selective-combinations.md/</loc>
+    <lastmod>2020-05-16T07:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/introducing-hyde/</loc>
+    <lastmod>2013-12-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/example-content/</loc>
+    <lastmod>2012-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/whats-hugo/</loc>
+    <lastmod>2012-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2010-12-31T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+</urlset>
