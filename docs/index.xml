@@ -28,6 +28,17 @@ abc
     </item>
     
     <item>
+      <title>Markdown Syntax Guide</title>
+      <link>/posts/markdown/</link>
+      <pubDate>Thu, 31 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/markdown/</guid>
+      <description>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+Headings The following HTML &amp;lt;h1&amp;gt;—&amp;lt;h6&amp;gt; elements represent six levels of section headings. &amp;lt;h1&amp;gt; is the highest section level while &amp;lt;h6&amp;gt; is the lowest.
+H1 H2 H3 H4 H5 H6 Paragraph Xerum, quo qui aut unt expliquam qui dolut labo.</description>
+    </item>
+    
+    <item>
       <title>Introducing Hyde</title>
       <link>/posts/introducing-hyde/</link>
       <pubDate>Sat, 28 Dec 2013 00:00:00 +0000</pubDate>
