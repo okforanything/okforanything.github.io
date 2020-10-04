@@ -1,0 +1,11 @@
+theme: hyde
+title: Dr. Jekyll & My. Hyde
+publishDir: docs/
+
+#baseURL: 'http://example.org/'
+#languageCode: en-us
+
+params:
+  layoutReverse: false
+  theme: hyde
+  themeColor: 'theme-base-0e'
